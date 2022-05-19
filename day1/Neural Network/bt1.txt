@@ -1,0 +1,3 @@
+Xem lại công thức tính node trong hidden layer, biếu diễn bài toán dưới dạng ma trận. Hiểu hết và chạy lại code (softmax, cross_entropy, batch update).
+Chỉnh các hyperparameter learning rate, activation function, số hidden layer, số node. Thử dùng các model đơn giản hơn (không có hidden layer, 1 hidden layer) hay phức tạp hơn (nhiều hidden layer và node hơn), vẽ loss function theo epoch tương ứng.
+Phân loại ảnh trong dữ liệu cifar10 (httpskeras.ioapidatasetscifar10fbclid=IwAR1vgtkoTvkITOq4jcnOfFi1TWRdvmZn9seOcwHmBmosYnEJT0qQj7YRimg#load_data-function ).
